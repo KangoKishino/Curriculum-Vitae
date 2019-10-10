@@ -54,7 +54,7 @@
 |key|value|
 |---|-----|
 |アプリ名|ramen_bot|
-|URL|LINE BOTのためURLなし|
+|URL|https://line.me/R/ti/p/%40246cuvpc|
 |概要|ラーメン好きなユーザーから送信されたメッセージに応答するLINE　BOTサービス。|
 |主な機能|テキスト、スタンプ、位置情報タイプごとの自動返答|
 |ソースコード|https://github.com/kashitaku/ramen_bot|

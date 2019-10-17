@@ -44,7 +44,8 @@
 |key|value|
 |---|-----|
 |アプリ名|ramen711|
-|URL|https://jyu-suke.com/ramen711/public/admin/login|
+|管理者用ログイン　URL|https://jyu-suke.com/ramen711/public/admin/login|
+|ユーザー用ログイン　URL|https://jyu-suke.com/ramen711/public/login|
 |概要|ラーメン好きなユーザー向けラーメン屋シェアサイト。|
 |主な機能|新規店舗登録・編集・削除、画像アップロード、ページネーション、店名・駅名検索、ソート機能、デザイン(Bootstrap4)、ログイン認証機能、いいね機能|
 |ソースコード|https://github.com/kashitaku/ramen711|
